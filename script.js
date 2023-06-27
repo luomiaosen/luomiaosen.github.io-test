@@ -1,5 +1,5 @@
 
-
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 // 向给定ID的用户发起请求
 // axios.
 axios.get('https://jsonplaceholder.typicode.com/todos/1')
